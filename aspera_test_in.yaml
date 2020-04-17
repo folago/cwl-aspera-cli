@@ -1,0 +1,7 @@
+mode: send
+host: demo.asperasoft.com
+user: aspera
+password: demoaspera
+destDir: /Upload
+
+filesToTransfer: [myfile mfile2]
